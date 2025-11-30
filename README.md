@@ -34,8 +34,3 @@ EV-Data-Visualization-Project/
 ```bash
 git clone https://github.com/ananya-singh21/EV-Data-Visualization-Project.git
 
-### 2. Install requirements
-pip install -r requirements.txt
-
-### 3. Run any script
-python scripts/<filename>.py
