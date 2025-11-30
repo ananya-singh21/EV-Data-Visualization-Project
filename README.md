@@ -42,3 +42,13 @@ pip install -r requirements.txt
 ```bash
 python scripts/evcharges.py
 ```
+
+📌 Folder Guide
+
+data/ → raw datasets
+
+scripts/ → Python files & analysis
+
+plots/ → output graphs
+
+README.md → project summary
