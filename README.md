@@ -33,8 +33,5 @@ EV-Data-Visualization-Project/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/ananya-singh21/EV-Data-Visualization-Project.git
+cd EV-Data-Visualization-Project
 
-
-### 2. Install requirements
-```bash
-pip install -r requirements.txt
