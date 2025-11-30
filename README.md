@@ -53,3 +53,32 @@ README.md   → project summary
 LICENSE     → open-source license
 ```
 
+## 📚 Dataset Sources
+
+1. Global EV Data Explorer (IEA)  
+   https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer
+
+2. EV Charging Stations in India (Kaggle)  
+   https://www.kaggle.com/datasets/saketpradhan/electric-vehicle-charging-stations-in-india
+
+3. Correlation EV Sales vs Chargers (internal CSV included in `data/`)
+
+## 📈 Example Visualizations
+
+Here are some of the plots generated in the project:
+
+![Global EV Heatmap](plots/world_ev_heatmap.png)
+![Cluster Map](plots/cluster_map.png)
+
+## 📝 Conclusion
+
+This project demonstrates the relationship between EV adoption and charging
+infrastructure using real-world datasets, geospatial mapping, and correlation
+analysis. It can be extended further using forecasting models and policy analysis.
+
+## 👥 Team Members
+
+- Kartik Suttraway
+- Namokar Kasture
+- Pavan Khajukar
+- Ananya Singh
