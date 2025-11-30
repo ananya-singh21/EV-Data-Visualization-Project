@@ -30,11 +30,12 @@ EV-Data-Visualization-Project/
 ```
 ## 🚀 How to Run
 
-1. Clone the repository:
+### 1. Clone the repository
+```bash
 git clone https://github.com/ananya-singh21/EV-Data-Visualization-Project.git
 
-2. Install requirements:
+### 2. Install requirements
 pip install -r requirements.txt
 
-3. Run any script from `scripts/`
-
+### 3. Run any script
+python scripts/<filename>.py
