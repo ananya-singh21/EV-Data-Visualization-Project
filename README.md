@@ -16,12 +16,16 @@ charging infrastructure, government policies, and technology in EV adoption.
 - Identify correlation between EV sales and charging stations
 
 ## 📁 Repository Structure
+
+```
 EV-Data-Visualization-Project/
 │
-├── data/ # Raw datasets
-├── plots/ # Output visualizations
-├── scripts/ # Python code files
+├── data/                # Raw datasets  
+├── plots/               # Output visualizations  
+├── scripts/             # Python code files  
 │
-├── README.md
-├── LICENSE
-└── .gitignore
+├── README.md  
+├── LICENSE  
+└── .gitignore  
+```
+
